@@ -4,8 +4,10 @@ import com.gess.data.Data;
 
 import java.util.Random;
 
+
+
 /**
- * 从1000个数 查找K
+ * 1000个数 查找K
  * Random
  */
 public class SearchModel {
